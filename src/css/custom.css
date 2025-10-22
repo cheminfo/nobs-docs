@@ -1,0 +1,14 @@
+:root {
+  /* Primary brand color: #75ab0b */
+  --ifm-color-primary: #75ab0b;
+  --ifm-color-primary-dark: #69980a;
+  --ifm-color-primary-darker: #5f8c09;
+  --ifm-color-primary-darkest: #476706;
+  --ifm-color-primary-light: #84be0c;
+  --ifm-color-primary-lighter: #90cd0d;
+  --ifm-color-primary-lightest: #a7e10f;
+}
+
+.hero__title {
+  font-weight: 700;
+}
